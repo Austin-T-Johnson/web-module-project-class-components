@@ -1,7 +1,5 @@
 import React from 'react'
 
-import '../styles/styles.css'
-
 import Form from './Form'
 import TodoList from './TodoList'
 
